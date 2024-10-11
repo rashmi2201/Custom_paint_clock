@@ -3,8 +3,8 @@
 A new Flutter project.
 
 # Screenshot
-<img src="" height="400">
-<img src="" height="400">
+<img src="https://github.com/rashmi2201/Custom_paint_clock/blob/main/outputs/Screenshot_1728622936.png" height="400">
+<img src="https://github.com/rashmi2201/Custom_paint_clock/blob/main/outputs/Screenshot_1728622931.png" height="400">
 
 ## Getting Started
 
